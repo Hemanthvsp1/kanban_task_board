@@ -14,11 +14,7 @@ https://your-vercel-or-netlify-url
 
 ## GitHub Repository
 
-Add repository URL here:
-
-```text
-https://github.com/your-username/your-repo
-```
+[https://github.com/Hemanthvsp1/kanban_task_board](https://github.com/Hemanthvsp1/kanban_task_board)
 
 ## Design Decisions
 

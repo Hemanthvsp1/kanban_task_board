@@ -24,7 +24,7 @@ The app is designed around a real board workflow: users can create tasks, move t
 Add these before submitting the final PDF/DOCX:
 
 - Live app: `TODO: add deployed frontend URL`
-- GitHub repository: `TODO: add repository URL`
+- GitHub repository: [https://github.com/Hemanthvsp1/kanban_task_board](https://github.com/Hemanthvsp1/kanban_task_board)
 - Architecture guide: [architectural.md](architectural.md)
 - Database schema: [supabase/schema.sql](supabase/schema.sql)
 - Final deliverable draft: [docs/final-deliverable.md](docs/final-deliverable.md)
